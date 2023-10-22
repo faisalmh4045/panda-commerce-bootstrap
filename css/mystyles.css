@@ -2,12 +2,12 @@
     background-color: #fceae8;
 }
 .btn-buy-now {
-    background-image: linear-gradient(#FF589B , #FF136F);
+    background-image: linear-gradient(#ff589b, #ff136f);
 }
 .price {
-    color: #FF136F;
+    color: #ff136f;
 }
-.categories img{
+.categories img {
     width: 100px;
 }
 .categories .cat-bg-1 {
