@@ -7,3 +7,15 @@
 .price {
     color: #FF136F;
 }
+.categories img{
+    width: 100px;
+}
+.categories .cat-bg-1 {
+    background-color: orange;
+}
+.categories .cat-bg-2 {
+    background-color: orchid;
+}
+.categories .cat-bg-3 {
+    background-color: blue;
+}
